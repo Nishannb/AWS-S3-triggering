@@ -9,4 +9,4 @@ Underlining architecture of S3 event triggers (dig.png):
 
 User ===> S3 Bucket (event trigger) ===> Lamda function (invoke to whatever service you have configured) ===> SNS 
 
-[embed]https://miro.medium.com/v2/resize:fit:1400/format:webp/1*wLQ4IqMMUnf0uynfI77VPw.png[/embed]
+![dig](https://github.com/Nishannb/AWS-S3-triggering/assets/91608996/e49bfb5e-aeca-41c4-8511-0b42c383e4a2)
